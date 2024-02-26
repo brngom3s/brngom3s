@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Breno Gomes</h1>
 <h3 align="center">A (not so distant) future full stack developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brngom3s&label=Profile%20views&color=0e75b6&style=flat" alt="brngom3s" /> </p>
 
 - 🔭 I’m currently working on [SystemZ (Personal/Education Website)](https://www.systemz.com.br)
 
