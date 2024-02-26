@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brngom3s&label=Profile%20views&color=0e75b6&style=flat" alt="brngom3s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brngom3s" alt="brngom3s" /></a> </p>
-
 - 🔭 I’m currently working on [SystemZ (Personal/Education Website)](https://www.systemz.com.br)
 
 - 🌱 I’m currently learning **Back-End Tecnologies**
