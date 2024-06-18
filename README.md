@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [SystemZ (Personal/Education Website)](https://www.systemz.com.br)
 
-- 🌱 I’m currently learning **Back-End Tecnologies**
+- 🌱 I’m currently learning **Cybersecurity Tecnologies**
 
 - 👨‍💻 All of my projects are available at [github.com/brngom3s](github.com/brngom3s)
 
